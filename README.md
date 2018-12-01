@@ -1,13 +1,13 @@
 <p align="center">
   <a href="https://2019.uottahack.ca/">
-    <img alt="uOttawa MLH Local HackDay" src="https://www.dropbox.com/s/x5glcc0lpr15lyq/localhackday.jpg?raw=1" width="60" />
+    <img alt="uOttawa MLH Local HackDay" src="https://www.dropbox.com/s/x5glcc0lpr15lyq/localhackday.jpg?raw=1" width="100%" />
   </a>
 </p>
 <h1 align="center">
   uOttawa MLH Local HackDay hosted by uOttaHack
 </h1>
 <h2 align="center">
-  Introduction to ReactJS and GatsbyJS
+  Introduction to ReactJS and GatsbyJS by Tolu Olubode
 </h2>
 
 ## 🚀 Quick start guide
